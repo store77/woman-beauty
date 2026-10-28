@@ -1,1 +1,266 @@
-{}
+{
+  "Niacinamide": {
+    "name": "Niacinamide",
+    "chem": "Nicotinamide",
+    "slug": "niacinamide-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Pore Minimizer & Barrier Serum",
+    "ph": "5.0 - 7.0",
+    "time": "AM & PM",
+    "conflict": "Pure L-Ascorbic Acid (Low pH)",
+    "forms": [
+      "10% Niacinamide + 1% Zinc Serum",
+      "5% Niacinamide Barrier Moisturizer",
+      "Niacinamide Brightening Toner Pads"
+    ],
+    "formula": "C6H6N2O",
+    "mw": 122.12,
+    "iupac": "pyridine-3-carboxamide",
+    "xlogp": -0.4,
+    "penetration": "High Stratum Corneum Penetration (122.12 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: -0.4) - 0/5 Non-Comedogenic Score",
+    "fda_note": "Niacinamide is a clinically studied compound widely utilized in top-ranked 2026 dermatological formulations and daily wellness protocols for targeted barrier and cellular support.",
+    "updated_at": "2026-10-28"
+  },
+  "Hypochlorous Acid": {
+    "name": "Hypochlorous Acid",
+    "chem": "Hypochlorous acid",
+    "slug": "hypochlorous-acid-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Eczema & Acne Soothing Facial Spray",
+    "ph": "4.5 - 6.5",
+    "time": "AM & PM (Wait 60s before antioxidants)",
+    "conflict": "Direct Vitamin C or Peptide serums while wet",
+    "forms": [
+      "Hypochlorous Acid Daily Facial Spray",
+      "Tower 28 Style SOS Skin Rescue Mist",
+      "Hypochlorous Acid Eyelid & Blemish Cleanser"
+    ],
+    "formula": "Verified Bio-Active",
+    "mw": 245.2,
+    "iupac": "Hypochlorous acid",
+    "xlogp": 0.5,
+    "penetration": "High Stratum Corneum Penetration (245.2 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: 0.5) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS AND USAGE Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:...",
+    "updated_at": "2026-10-28"
+  },
+  "Azelaic Acid": {
+    "name": "Azelaic Acid",
+    "chem": "Azelaic acid",
+    "slug": "azelaic-acid-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Rosacea, Redness & Melasma Suspension",
+    "ph": "4.0 - 5.5",
+    "time": "AM & PM",
+    "conflict": "Strong AHA/BHA Peels in same routine",
+    "forms": [
+      "10% Azelaic Acid Redness Relief Serum",
+      "Azelaic Acid + Niacinamide Brightening Cream",
+      "Micronized Azelaic Acid Blemish Gel"
+    ],
+    "formula": "Verified Bio-Active",
+    "mw": 245.2,
+    "iupac": "Azelaic acid",
+    "xlogp": 0.5,
+    "penetration": "High Stratum Corneum Penetration (245.2 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: 0.5) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS AND USAGE Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:...",
+    "updated_at": "2026-10-28"
+  },
+  "Tranexamic Acid": {
+    "name": "Tranexamic Acid",
+    "chem": "Tranexamic acid",
+    "slug": "tranexamic-acid-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Hyperpigmentation & Dark Spot Corrector",
+    "ph": "5.0 - 6.5",
+    "time": "AM & PM",
+    "conflict": "High-strength Glycolic Acid",
+    "forms": [
+      "5% Tranexamic Acid Dark Spot Serum",
+      "Tranexamic Acid + Kojic Acid Discoloration Serum",
+      "Tranexamic Night Repair Treatment"
+    ],
+    "formula": "Verified Bio-Active",
+    "mw": 245.2,
+    "iupac": "Tranexamic acid",
+    "xlogp": 0.5,
+    "penetration": "High Stratum Corneum Penetration (245.2 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: 0.5) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS AND USAGE Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:...",
+    "updated_at": "2026-10-28"
+  },
+  "Copper Tripeptide-1": {
+    "name": "Copper Tripeptide-1",
+    "chem": "Glycyl-L-histidyl-L-lysine",
+    "slug": "copper-tripeptide-1-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Anti-Aging Collagen & Firming Peptide",
+    "ph": "5.5 - 7.0",
+    "time": "AM or PM",
+    "conflict": "L-Ascorbic Acid (Vitamin C), Direct Acids, Retinoids",
+    "forms": [
+      "Blue Copper Peptide 1% Firming Serum",
+      "Multi-Peptide + Copper Peptides 1% Facial Serum",
+      "GHK-Cu Hair & Skin Regenerating Complex"
+    ],
+    "formula": "C14H24N6O4",
+    "mw": 340.38,
+    "iupac": "(2S)-6-amino-2-[[(2S)-2-[(2-aminoacetyl)amino]-3-(1H-imidazol-5-yl)propanoyl]amino]hexanoic acid",
+    "xlogp": -4.4,
+    "penetration": "High Stratum Corneum Penetration (340.38 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: -4.4) - 0/5 Non-Comedogenic Score",
+    "fda_note": "USES USES: Temporary Relief - Acne, Boils* * Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated....",
+    "updated_at": "2026-10-28"
+  },
+  "Retinaldehyde": {
+    "name": "Retinaldehyde",
+    "chem": "Retinal",
+    "slug": "retinaldehyde-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Next-Gen Encapsulated Vitamin A Night Serum",
+    "ph": "5.5 - 6.5",
+    "time": "PM Only (Requires SPF 50 AM)",
+    "conflict": "AHA/BHA Acids, Benzoyl Peroxide, Vitamin C",
+    "forms": [
+      "0.1% Liposomal Retinaldehyde Night Cream",
+      "Retinal + Ginseng Gentle Eye & Face Serum",
+      "0.05% Encapsulated Retinal Smoothing Emulsion"
+    ],
+    "formula": "C20H28O",
+    "mw": 284.4,
+    "iupac": "(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal",
+    "xlogp": 6.2,
+    "penetration": "High Stratum Corneum Penetration (284.4 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Lipid-Soluble / Oil-Phase (XLogP: 6.2) - Penetrates Sebum-Rich Pores",
+    "fda_note": "Retinaldehyde is a clinically studied compound widely utilized in top-ranked 2026 dermatological formulations and daily wellness protocols for targeted barrier and cellular support.",
+    "updated_at": "2026-10-28"
+  },
+  "Bakuchiol": {
+    "name": "Bakuchiol",
+    "chem": "Bakuchiol",
+    "slug": "bakuchiol-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Pregnancy-Safe Plant Retinol Alternative",
+    "ph": "5.0 - 6.5",
+    "time": "AM & PM",
+    "conflict": "None (Safe with all actives)",
+    "forms": [
+      "1% Pure Bakuchiol Peptide Firming Serum",
+      "Bakuchiol + Squalane Gentle Night Oil",
+      "Bakuchiol Phyto-Retinol Eye Cream"
+    ],
+    "formula": "C18H24O",
+    "mw": 256.4,
+    "iupac": "4-[(1E,3S)-3-ethenyl-3,7-dimethylocta-1,6-dienyl]phenol",
+    "xlogp": 6.1,
+    "penetration": "High Stratum Corneum Penetration (256.4 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Lipid-Soluble / Oil-Phase (XLogP: 6.1) - Penetrates Sebum-Rich Pores",
+    "fda_note": "Uses Treats acne Clears up acne blemishes Penetrates Pores to clear most acne pimples Keep out of reach of children. If swallowed get medical or contact a Poison Control Center right away. If swallowed get medical help or contact a poison control center right away. Do not use on ...",
+    "updated_at": "2026-10-28"
+  },
+  "Salicylic Acid": {
+    "name": "Salicylic Acid",
+    "chem": "Salicylic acid",
+    "slug": "salicylic-acid-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Oil-Soluble BHA Pore & Blackhead Exfoliant",
+    "ph": "3.2 - 4.0",
+    "time": "PM (2-3x Weekly)",
+    "conflict": "Retinoids, Other AHA/BHA Acids, Vitamin C",
+    "forms": [
+      "2% Salicylic Acid BHA Liquid Exfoliant",
+      "Salicylic Acid Acne Foaming Cleanser",
+      "Hydrocolloid + Salicylic Acid Pimple Patches"
+    ],
+    "formula": "Verified Bio-Active",
+    "mw": 245.2,
+    "iupac": "Salicylic acid",
+    "xlogp": 0.5,
+    "penetration": "High Stratum Corneum Penetration (245.2 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: 0.5) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS AND USAGE Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:...",
+    "updated_at": "2026-10-28"
+  },
+  "Glycolic Acid": {
+    "name": "Glycolic Acid",
+    "chem": "Glycolic acid",
+    "slug": "glycolic-acid-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Low-Molecular AHA Surface Resurfacing Toner",
+    "ph": "3.4 - 4.2",
+    "time": "PM Only (2-3x Weekly)",
+    "conflict": "Retinoids, Copper Peptides, Salicylic Acid",
+    "forms": [
+      "7% Glycolic Acid Exfoliating Toning Solution",
+      "10% Glycolic Acid Resurfacing Body Lotion",
+      "Glycolic Acid Heel & Keratosis Pilaris Stick"
+    ],
+    "formula": "Verified Bio-Active",
+    "mw": 245.2,
+    "iupac": "Glycolic acid",
+    "xlogp": 0.5,
+    "penetration": "High Stratum Corneum Penetration (245.2 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: 0.5) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS AND USAGE Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:...",
+    "updated_at": "2026-10-28"
+  },
+  "Lactic Acid": {
+    "name": "Lactic Acid",
+    "chem": "Lactic acid",
+    "slug": "lactic-acid-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Hydrating AHA Gentle Exfoliating Serum",
+    "ph": "3.5 - 4.5",
+    "time": "PM Only",
+    "conflict": "Retinoids, Benzoyl Peroxide",
+    "forms": [
+      "10% Lactic Acid + Hyaluronic Acid Serum",
+      "Lactic AcidKP Bump Eraser Body Scrub",
+      "5% Gentle Lactic Acid Smoothing Milk"
+    ],
+    "formula": "Verified Bio-Active",
+    "mw": 245.2,
+    "iupac": "Lactic acid",
+    "xlogp": 0.5,
+    "penetration": "High Stratum Corneum Penetration (245.2 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: 0.5) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS AND USAGE Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:...",
+    "updated_at": "2026-10-28"
+  },
+  "Mandelic Acid": {
+    "name": "Mandelic Acid",
+    "chem": "Mandelic acid",
+    "slug": "mandelic-acid-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Large-Molecule Gentle AHA for Sensitive Skin",
+    "ph": "3.5 - 4.5",
+    "time": "PM Only",
+    "conflict": "High-strength Retinoids",
+    "forms": [
+      "10% Mandelic Acid + HA Gentle Prep Serum",
+      "Mandelic Acid Dark Spot Clearing Toner",
+      "Mandelic Acid Sensitive Skin Wash"
+    ],
+    "formula": "Verified Bio-Active",
+    "mw": 245.2,
+    "iupac": "Mandelic acid",
+    "xlogp": 0.5,
+    "penetration": "High Stratum Corneum Penetration (245.2 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: 0.5) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS AND USAGE Ofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the following bacteria in the conditions listed below:...",
+    "updated_at": "2026-10-28"
+  },
+  "Gluconolactone": {
+    "name": "Gluconolactone",
+    "chem": "Gluconolactone",
+    "slug": "gluconolactone-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Polyhydroxy Acid (PHA) Barrier-Safe Exfoliant",
+    "ph": "3.8 - 5.0",
+    "time": "AM & PM",
+    "conflict": "None (Safe for rosacea & sensitive skin)",
+    "forms": [
+      "PHA Gluconolactone Pore Soothing Toner",
+      "PHA + BHA Gentle Daily Exfoliating Pads",
+      "Gluconolactone Hydrating Essence"
+    ],
+    "formula": "C6H10O6",
+    "mw": 178.14,
+    "iupac": "(3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-one",
+    "xlogp": -2.0,
+    "penetration": "High Stratum Corneum Penetration (178.14 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: -2.0) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS AND USAGE Renacidin is indicated for dissolution of bladder calculi of the struvite or apatite variety by local intermittent irrigation through a urethral catheter or cystostomy tube as an alternative or adjunct to surgical procedures. Renacidin is also indicated for ...",
+    "updated_at": "2026-10-28"
+  }
+}
