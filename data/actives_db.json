@@ -526,5 +526,181 @@
     "solubility": "Water-Soluble / Hydrophilic (XLogP: 0.5) - 0/5 Non-Comedogenic Score",
     "fda_note": "Indications To optimize body minerals...",
     "updated_at": "2026-10-29"
+  },
+  "Creatine Monohydrate": {
+    "name": "Creatine Monohydrate",
+    "chem": "Creatine",
+    "slug": "creatine-monohydrate-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Cellular ATP, Muscle & Cognitive Longevity Powder",
+    "ph": "Neutral",
+    "time": "Daily (5g Anytime with Water/Electrolytes)",
+    "conflict": "None (Third-party Creapure / NSF certified preferred)",
+    "forms": [
+      "Micronized Creatine Monohydrate Powder (100 Servings)",
+      "Creatine Monohydrate + Electrolytes Hydration Mix",
+      "Unflavored GMP Certified Creatine Capsules"
+    ],
+    "formula": "C4H9N3O2",
+    "mw": 131.13,
+    "iupac": "2-[carbamimidoyl(methyl)amino]acetic acid",
+    "xlogp": -1.2,
+    "penetration": "High Stratum Corneum Penetration (131.13 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: -1.2) - 0/5 Non-Comedogenic Score",
+    "fda_note": "Creatine Monohydrate is a clinically studied compound widely utilized in top-ranked 2026 dermatological formulations and daily wellness protocols for targeted barrier and cellular support.",
+    "updated_at": "2026-10-30"
+  },
+  "L-Theanine": {
+    "name": "L-Theanine",
+    "chem": "Theanine",
+    "slug": "l-theanine-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Alpha-Wave Calm Focus & Jitter-Free Nootropic",
+    "ph": "Neutral",
+    "time": "AM (with Coffee) or PM (for Sleep)",
+    "conflict": "None (Synergizes 2:1 with Caffeine)",
+    "forms": [
+      "L-Theanine 200mg Suntheanine Softgels",
+      "Caffeine + L-Theanine Focus Nootropic Stack",
+      "Magnesium + L-Theanine + Apigenin Night Complex"
+    ],
+    "formula": "C7H14N2O3",
+    "mw": 174.2,
+    "iupac": "(2S)-2-amino-5-(ethylamino)-5-oxopentanoic acid",
+    "xlogp": -3.6,
+    "penetration": "High Stratum Corneum Penetration (174.2 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: -3.6) - 0/5 Non-Comedogenic Score",
+    "fda_note": "Herbal medicine extract for inflammation improvement - willow bark (salicylic acid) - nipa palm (polyphenols) - corn cob (β-sitosterol) - myrrh (guggulsterone) - xylitol (suppression of mutans)...",
+    "updated_at": "2026-10-30"
+  },
+  "Berberine": {
+    "name": "Berberine",
+    "chem": "Berberine",
+    "slug": "berberine-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "AMPK Metabolic & Glucose Support Alkaloid",
+    "ph": "Neutral",
+    "time": "15-30 Mins Before Carbohydrate Meals",
+    "conflict": "Consult physician if using prescription hypoglycemics",
+    "forms": [
+      "Berberine Phytosome 1200mg with Ceylon Cinnamon",
+      " Dihydroberberine High-Bioavailability Capsules",
+      "Berberine + Chromium Metabolic Support Complex"
+    ],
+    "formula": "C20H18NO4+",
+    "mw": 336.4,
+    "iupac": "16,17-dimethoxy-5,7-dioxa-13-azoniapentacyclo[11.8.0.02,10.04,8.015,20]henicosa-1(13),2,4(8),9,14,16,18,20-octaene",
+    "xlogp": 3.6,
+    "penetration": "High Stratum Corneum Penetration (336.4 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Lipid-Soluble / Oil-Phase (XLogP: 3.6) - Penetrates Sebum-Rich Pores",
+    "fda_note": "Berberine is a clinically studied compound widely utilized in top-ranked 2026 dermatological formulations and daily wellness protocols for targeted barrier and cellular support.",
+    "updated_at": "2026-10-30"
+  },
+  "Glutathione": {
+    "name": "Glutathione",
+    "chem": "Glutathione",
+    "slug": "glutathione-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Master Intracellular Antioxidant & Brightening Tripeptide",
+    "ph": "4.5 - 6.0",
+    "time": "AM on Empty Stomach or Topical Serum",
+    "conflict": "None (Synergizes with Vitamin C & NAC)",
+    "forms": [
+      "Liposomal Glutathione 1000mg Softgels",
+      "Korean Glutathione + Niacinamide Glow Toner Pads",
+      "Reduced L-Glutathione + Vitamin C Complex"
+    ],
+    "formula": "C10H17N3O6S",
+    "mw": 307.33,
+    "iupac": "(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-1-oxo-3-sulfanylpropan-2-yl]amino]-5-oxopentanoic acid",
+    "xlogp": -4.5,
+    "penetration": "High Stratum Corneum Penetration (307.33 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: -4.5) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS: For temporary relief of symptoms related to Free Radical Toxicity including tingling in hands or feet, mood changes, frequent colds, poor digestion, poor blood sugar regulation, weight gain, fatigue, and constipation....",
+    "updated_at": "2026-10-30"
+  },
+  "N-Acetyl Cysteine": {
+    "name": "N-Acetyl Cysteine",
+    "chem": "Acetylcysteine",
+    "slug": "n-acetyl-cysteine-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Glutathione Precursor & Respiratory/Cellular Defense",
+    "ph": "Neutral",
+    "time": "AM or PM Between Meals",
+    "conflict": "None (Pairs with Glycine for GlyNAC stack)",
+    "forms": [
+      "NAC N-Acetyl Cysteine 600mg Veggie Capsules",
+      "GlyNAC (Glycine + NAC) Longevity Bundle",
+      "NAC + Selenium + Molybdenum Detox Formula"
+    ],
+    "formula": "C5H9NO3S",
+    "mw": 163.2,
+    "iupac": "(2R)-2-acetamido-3-sulfanylpropanoic acid",
+    "xlogp": 0.4,
+    "penetration": "High Stratum Corneum Penetration (163.2 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: 0.4) - 0/5 Non-Comedogenic Score",
+    "fda_note": "INDICATIONS AND USAGE Oxycodone and acetaminophen tablets USP are indicated for the relief of moderate to moderately severe pain....",
+    "updated_at": "2026-10-30"
+  },
+  "Astaxanthin": {
+    "name": "Astaxanthin",
+    "chem": "Astaxanthin",
+    "slug": "astaxanthin-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Lipid-Soluble Carotenoid UV & Skin Elasticity Shield",
+    "ph": "Lipid-Soluble",
+    "time": "With a Fat-Containing Meal",
+    "conflict": "None",
+    "forms": [
+      "12mg Icelandic Microalgae Astaxanthin Softgels",
+      "Astaxanthin + Omega-3 Krill Oil Complex",
+      "Topical Astaxanthin Antioxidant Facial Oil"
+    ],
+    "formula": "C40H52O4",
+    "mw": 596.8,
+    "iupac": "(6S)-6-hydroxy-3-[(1E,3E,5E,7E,9E,11E,13E,15E,17E)-18-[(4S)-4-hydroxy-2,6,6-trimethyl-3-oxocyclohexen-1-yl]-3,7,12,16-tetramethyloctadeca-1,3,5,7,9,11,13,15,17-nonaenyl]-2,4,4-trimethylcyclohex-2-en-1-one",
+    "xlogp": 10.3,
+    "penetration": "Surface & Barrier-Locking Molecule (596.8 Daltons - Functions on Upper Epidermis)",
+    "solubility": "Lipid-Soluble / Oil-Phase (XLogP: 10.3) - Penetrates Sebum-Rich Pores",
+    "fda_note": "Provides high protection against sunburn and tanning....",
+    "updated_at": "2026-10-30"
+  },
+  "Inositol": {
+    "name": "Inositol",
+    "chem": "Inositol",
+    "slug": "inositol-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Hormonal Balance, Ovarian & Deep Sleep Support",
+    "ph": "Neutral",
+    "time": "AM & PM (or Before Bed for Sleep)",
+    "conflict": "None",
+    "forms": [
+      "Myo-Inositol & D-Chiro Inositol 40:1 Ratio Powder",
+      "Myo-Inositol 2000mg Hormone Balance Capsules",
+      "Inositol + Magnesium Deep Sleep Drink Mix"
+    ],
+    "formula": "C6H12O6",
+    "mw": 180.16,
+    "iupac": "cyclohexane-1,2,3,4,5,6-hexol",
+    "xlogp": -3.7,
+    "penetration": "High Stratum Corneum Penetration (180.16 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: -3.7) - 0/5 Non-Comedogenic Score",
+    "fda_note": "Homeopathic Purpose Kali Sulphuricum 6x Chirping, Crackling, Humming Salicylicum Acidum 6x,12x Roaring, Ringing, Buzzing Silicea 6x Pain, Discomfort Calcarea Sulphuricum 6x Inner Ear Problems Chininum Sulphuricum 12x Hardness of Hearing Thiosinaminum 6x,12x Eardrum Problems...",
+    "updated_at": "2026-10-30"
+  },
+  "Taurine": {
+    "name": "Taurine",
+    "chem": "Taurine",
+    "slug": "taurine-benefits-layering-guide-amazon-bestsellers-2026",
+    "cat": "Cardiovascular, Cellular Hydration & Longevity Amino",
+    "ph": "Neutral",
+    "time": "AM or Pre-Workout",
+    "conflict": "None",
+    "forms": [
+      "Pure Taurine 1000mg Double-Strength Capsules",
+      "Electrolyte + Taurine Zero-Sugar Hydration Packets",
+      "Taurine + Magnesium Heart & Nerve Support"
+    ],
+    "formula": "C2H7NO3S",
+    "mw": 125.15,
+    "iupac": "2-aminoethanesulfonic acid",
+    "xlogp": -4.1,
+    "penetration": "High Stratum Corneum Penetration (125.15 Daltons - Under the 500 Dalton Threshold)",
+    "solubility": "Water-Soluble / Hydrophilic (XLogP: -4.1) - 0/5 Non-Comedogenic Score",
+    "fda_note": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to attention deficit including hyperactivity and poor concentration.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration....",
+    "updated_at": "2026-10-30"
   }
 }
